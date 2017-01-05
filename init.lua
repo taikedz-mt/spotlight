@@ -1,3 +1,12 @@
+-- Copyright Tai "DuCake" Kedzierski 2017
+-- Provided to you under the terms of the GNU Lesser General Pulbic License v3.0
+-- You may copy, modify and redistribute this software as long as you provide
+-- these same rights to those to whom you distribute the software to, and provide the
+-- source code of your version on request from those same people.
+-- See gnu.org for more information.
+
+-- ========================================================
+
 -- This mod causes the block to cast light downwards for a far distance
 
 minetest.register_node("spotlight:luminance",{
